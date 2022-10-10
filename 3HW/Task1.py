@@ -1,2 +1,2 @@
-d =  int(input("Введите число для заданной точности числа Пи:\n"))
-print(f'число Пи с заданной точностью {d} равно {round(pi, d)}')
+d =  int(input("Enter the number:\n"))
+print(f'Pi with this coor {d} = {round(pi, d)}')
